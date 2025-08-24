@@ -3,6 +3,14 @@ name = "rs-natural2array"
 version = "0.1.0"
 edition = "2024"
 
+description = "Converts natural numbers to an array."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-natural2array"
+homepage = "https://github.com/takanoriyanagitani/rs-natural2array"
+documentation = "https://docs.rs/rs-natural2array/latest"
+keywords = ["arrow", "conversion", "integer", "array"]
+categories  = ["data-structures", "parsing"]
+
 [dependencies.arrow]
 version = "56"
 default-features = false
